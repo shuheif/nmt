@@ -1,0 +1,4 @@
+# log_file=cornell/nmt_model/log_1534511012
+# Start step 72000, lr 1, Fri Aug 17 09:03:48 2018
+# Final, step 72000 lr 1 step-time 0.00s wps 0.00K ppl 0.00 gN 0.00 dev ppl 858.50, dev bleu 0.4, test ppl 500.67, test bleu 1.1, Fri Aug 17 09:04:04 2018
+# Best bleu, step 6000 lr 1 step-time 0.00s wps 0.00K ppl 0.00 gN 0.00 dev ppl 82.38, dev bleu 0.8, test ppl 65.33, test bleu 0.8, Fri Aug 17 09:04:10 2018

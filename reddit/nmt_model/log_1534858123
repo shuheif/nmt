@@ -1,0 +1,16 @@
+# log_file=reddit/nmt_model/log_1534858123
+# Start step 241000, lr 1, Tue Aug 21 09:28:59 2018
+  step 241100 lr 1 step-time 0.72s wps 94.38K ppl 11.69 gN 3.18 bleu 0.79, Tue Aug 21 09:30:25 2018
+  step 241200 lr 1 step-time 0.82s wps 82.61K ppl 11.68 gN 3.15 bleu 0.79, Tue Aug 21 09:32:15 2018
+  step 241300 lr 1 step-time 0.83s wps 81.78K ppl 11.83 gN 3.32 bleu 0.79, Tue Aug 21 09:34:05 2018
+  step 241400 lr 1 step-time 0.86s wps 78.08K ppl 11.33 gN 2.88 bleu 0.79, Tue Aug 21 09:35:59 2018
+  step 241500 lr 1 step-time 0.87s wps 77.44K ppl 11.90 gN 3.36 bleu 0.79, Tue Aug 21 09:37:53 2018
+  step 241600 lr 1 step-time 0.88s wps 76.45K ppl 11.33 gN 2.85 bleu 0.79, Tue Aug 21 09:39:50 2018
+  step 241700 lr 1 step-time 0.88s wps 76.36K ppl 11.91 gN 3.34 bleu 0.79, Tue Aug 21 09:41:46 2018
+  step 241800 lr 1 step-time 0.89s wps 76.21K ppl 11.28 gN 2.81 bleu 0.79, Tue Aug 21 09:43:42 2018
+  step 241900 lr 1 step-time 0.89s wps 75.87K ppl 11.79 gN 3.27 bleu 0.79, Tue Aug 21 09:45:39 2018
+  step 242000 lr 1 step-time 0.87s wps 77.33K ppl 11.32 gN 2.84 bleu 0.79, Tue Aug 21 09:47:34 2018
+  step 242100 lr 1 step-time 0.87s wps 77.65K ppl 11.85 gN 3.30 bleu 0.79, Tue Aug 21 09:49:27 2018
+  step 242200 lr 1 step-time 0.86s wps 78.07K ppl 11.25 gN 2.80 bleu 0.79, Tue Aug 21 09:51:19 2018
+  step 242300 lr 1 step-time 0.83s wps 81.47K ppl 11.80 gN 3.30 bleu 0.79, Tue Aug 21 09:52:54 2018
+  step 242400 lr 1 step-time 0.88s wps 77.52K ppl 11.68 gN 3.16 bleu 0.79, Tue Aug 21 09:54:48 2018

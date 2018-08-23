@@ -1,0 +1,4 @@
+# log_file=reddit/nmt_model/log_1535028709
+# Start step 356000, lr 1, Thu Aug 23 08:52:06 2018
+  step 356100 lr 1 step-time 0.68s wps 99.37K ppl 10.96 gN 3.06 bleu 0.79, Thu Aug 23 08:53:27 2018
+  step 356200 lr 1 step-time 0.82s wps 82.36K ppl 11.02 gN 3.10 bleu 0.79, Thu Aug 23 08:55:16 2018
