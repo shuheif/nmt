@@ -1,0 +1,4 @@
+# log_file=friends/nmt_model/log_1534865965
+# Start step 60000, lr 1, Tue Aug 21 11:39:48 2018
+# Final, step 60000 lr 1 step-time 0.00s wps 0.00K ppl 0.00 gN 0.00 dev ppl 672.31, dev bleu 1.1, test ppl 455.66, test bleu 0.7, Tue Aug 21 11:40:10 2018
+# Best bleu, step 55000 lr 1 step-time 0.00s wps 0.00K ppl 0.00 gN 0.00 dev ppl 675.80, dev bleu 1.6, test ppl 446.04, test bleu 0.6, Tue Aug 21 11:40:26 2018
